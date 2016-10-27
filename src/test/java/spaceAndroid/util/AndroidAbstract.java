@@ -13,7 +13,7 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by raihan on 10/4/16.
+ * Created by mexan on 10/4/16.
  */
 public abstract class AndroidAbstract {
     protected AndroidDriver androidDriver;
